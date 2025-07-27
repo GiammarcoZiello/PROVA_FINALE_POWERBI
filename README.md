@@ -1,3 +1,6 @@
+LINK GOOGLE DRIVE CONDIVISO:
+https://drive.google.com/drive/folders/11ewb7dlGuvOKM-f44iYej_csi1W55UGR?usp=drive_link
+
 # PROVA_FINALE_POWERBI
 POWERBI
 Analisi Dataset OlistStore composto dalle seguenti tabelle:
